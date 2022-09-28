@@ -1,7 +1,7 @@
 # react_newsApi
 Created with CodeSandbox
 
-visit the site at:--https://cpqddb.csb.app/
+visit the site at:--https://21sp7u.csb.app/
 
 
 ![Screenshot from 2022-09-28 11-47-42](https://user-images.githubusercontent.com/73746406/192703145-3ec19adf-7e7f-4f8c-9ef4-35f37535d65a.png)
